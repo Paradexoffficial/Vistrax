@@ -2,7 +2,7 @@
 Open-Source Libary Script, Smartest Script Since 2008. 
 API not under Open-Source full-fetched API pointers
 Free script.  
-# Websites 
+# Websites  
 https://www.vistrax.ml/   { Requires www. } 
 https://vistrax.cf/
 https://vistrax.gq/ 
@@ -20,3 +20,45 @@ https://vistrax-storage.ga/
 {*} - Updated Core Modules
 {*} - Added Cim Pipes
 {*} - Removed CPM Libary A12
+
+
+
+```
+Hello  (<-- two spaces)
+World
+```
+
+Hello  
+World
+
+---
+
+```
+Hello
+World
+```
+
+Hello
+World
+
+---
+
+```
+Hello<br/>
+World
+```
+
+Hello<br/>
+World
+
+---
+
+```
+Hello
+
+World
+```
+
+Hello
+
+World 
